@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on any ideas
 </p>
 <p align='center'> 
-An awful score currently cause I work with private projects on GitLab, but I'm going to commit changes every day to make it better
+An awful score currently cause I work with private projects on GitLab
 </p>
 
 ![Github Overview](https://github-readme-stats.vercel.app/api?username=Nikzed)
